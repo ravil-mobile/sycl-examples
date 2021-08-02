@@ -1,0 +1,24 @@
+calling main.cpp
+--------------------------------------------------------------------------------
+Quadro P4000
+0.0
+NVIDIA Corporation
+--------------------------------------------------------------------------------
+SYCL host device
+1.2
+
+Running on device: Quadro P4000
+Vector size: 10000
+Vector acclocated: 10000
+
+PI CUDA ERROR:
+	Value:           500
+	Name:            CUDA_ERROR_NOT_FOUND
+	Description:     named symbol not found
+	Function:        cuda_piKernelCreate
+	Source Location: /home/ga83dit/.tmp_build/spack-stage-dpcpp-stable-cai36bpowhmwy447fvic46fyc2owdnlu/spack-src/sycl/plugins/cuda/pi_cuda.cpp:2356
+
+An exception is caught while adding two vectors.
+terminate called after throwing an instance of 'cl::sycl::runtime_error'
+  what():  Native API failed. Native API returns: -999 (Unknown OpenCL error code) -999 (Unknown OpenCL error code)
+Aborted (core dumped)

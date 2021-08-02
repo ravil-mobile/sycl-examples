@@ -1,0 +1,292 @@
+CLUTTER_IM_MODULE=xim
+CONDA_SHLVL=1
+LD_LIBRARY_PATH=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/dpcpp-stable-cai36bpowhmwy447fvic46fyc2owdnlu/lib
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+CONDA_EXE=/home/ga83dit/anaconda3/bin/conda
+LC_MEASUREMENT=en_US.UTF-8
+BIN=/home/ga83dit/apps/utils/spack/bin:/home/ga83dit/apps/utils/cmake-3.16.2/bin
+BOOST_ROOT=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/boost-1.73.0-gc2tlqywiolwkdkvin42q2pe5p3cfdxf
+SPACK_PYTHON=/usr/bin/python3
+INCLUDE=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/dpcpp-stable-cai36bpowhmwy447fvic46fyc2owdnlu/include:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/boost-1.73.0-gc2tlqywiolwkdkvin42q2pe5p3cfdxf/include:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/fmt-6.1.2-a7bfes4oigaxrpm2luhtdb63lers36xm/include
+LESSCLOSE=/usr/bin/lesspipe %s %s
+LC_PAPER=en_US.UTF-8
+HIP_PLATFORM=nvcc
+LC_MONETARY=en_US.UTF-8
+XDG_MENU_PREFIX=gnome-
+MODULES_RUN_QUARANTINE=LD_LIBRARY_PATH LD_PRELOAD
+LANG=en_US.UTF-8
+SINGULARITY_LOCALCACHEDIR=/work/ravil/singularity/tmp-runtime
+DISPLAY=:1
+OLDPWD=/import/home/ga83dit/Documents/scratch/sycl-examples/vector-add/build
+SDKMAN_CANDIDATES_API=https://api.sdkman.io/2
+GNOME_SHELL_SESSION_MODE=ubuntu
+C_INCLUDE_PATH=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/dpcpp-stable-cai36bpowhmwy447fvic46fyc2owdnlu/include:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/boost-1.73.0-gc2tlqywiolwkdkvin42q2pe5p3cfdxf/include:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/fmt-6.1.2-a7bfes4oigaxrpm2luhtdb63lers36xm/include
+EDITOR=code
+GTK2_MODULES=overlay-scrollbar
+PATH_modshare=/opt/rocm/opencl/bin/x86_64:1:/usr/bin:1:/usr/local/bin:1:/home/ga83dit/apps/utils/cmake-3.16.2/bin:1:/opt/rocm/profiler/bin:1:/home/ga83dit/.sdkman/candidates/groovy/current/bin:1:/home/ga83dit/apps/utils/spack/bin:1:/home/ga83dit/anaconda3/condabin:1:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/environment-modules-4.5.1-7juu22d7xnrwihesmqavsjrjqnspcwzh/bin:1:/bin:1:/opt/puppetlabs/bin:1:/snap/bin:1:/home/ga83dit/anaconda3/bin:1:/opt/rocm/bin:1:/home/ga83dit/.local/bin:1:/home/ga83dit/bin:1:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/dpcpp-stable-cai36bpowhmwy447fvic46fyc2owdnlu/bin:1:/sbin:1:/home/ga83dit/.cargo/bin:1:/work_fast/ravil/latex/bin/x86_64-linux:1:/usr/sbin:1:/usr/games:1:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/cuda-10.2.89-lburamo5a3uav2rwhl7hjmbrsbcumnih/bin:1:/usr/local/sbin:1:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/go-1.14.5-sfctmahlpubqv4bi7lkey6v2lnwujdov/bin:1:/usr/local/games:1
+LOADEDMODULES_modshare=fmt-6.1.2-gcc-8.3.0-a7bfes4:1:boost-1.73.0-gcc-8.3.0-gc2tlqy:1:dpcpp-stable-gcc-8.3.0-cai36bp:1:go-1.14.5-gcc-8.3.0-sfctmah:1
+COLORTERM=truecolor
+USERNAME=ga83dit
+SINGULARITY_TMPDIR=/work/ravil/singularity/tmp
+CONDA_PREFIX=/home/ga83dit/anaconda3
+TEXMFDIST=/work_fast/ravil/latex/texmf-dist
+TEXMFMAIN=/work_fast/ravil/latex/texmf:/home/LATEX/texmf
+XDG_VTNR=2
+PKG_CONFIG_PATH_modshare=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/dpcpp-stable-cai36bpowhmwy447fvic46fyc2owdnlu/lib/pkgconfig:1:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/fmt-6.1.2-a7bfes4oigaxrpm2luhtdb63lers36xm/lib/pkgconfig:1
+C_INCLUDE_PATH_modshare=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/fmt-6.1.2-a7bfes4oigaxrpm2luhtdb63lers36xm/include:1:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/boost-1.73.0-gc2tlqywiolwkdkvin42q2pe5p3cfdxf/include:1:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/dpcpp-stable-cai36bpowhmwy447fvic46fyc2owdnlu/include:1
+SSH_AUTH_SOCK=/run/user/3643463/keyring/ssh
+MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+CPLUS_INCLUDE_PATH_modshare=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/fmt-6.1.2-a7bfes4oigaxrpm2luhtdb63lers36xm/include:1:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/boost-1.73.0-gc2tlqywiolwkdkvin42q2pe5p3cfdxf/include:1:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/dpcpp-stable-cai36bpowhmwy447fvic46fyc2owdnlu/include:1
+S_COLORS=auto
+TEXMFCONFIG=/work_fast/ravil/texlive/texmf-config
+_CE_M=
+LD_LIBRARY_PATH_modshare=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/dpcpp-stable-cai36bpowhmwy447fvic46fyc2owdnlu/lib:1
+GROOVY_HOME=/home/ga83dit/.sdkman/candidates/groovy/current
+CC=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/dpcpp-stable-cai36bpowhmwy447fvic46fyc2owdnlu/bin/clang
+LC_NAME=en_US.UTF-8
+XDG_SESSION_ID=4
+MODULES_CMD=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/environment-modules-4.5.1-7juu22d7xnrwihesmqavsjrjqnspcwzh/libexec/modulecmd.tcl
+LIBRARY_PATH_modshare=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/boost-1.73.0-gc2tlqywiolwkdkvin42q2pe5p3cfdxf/lib:1:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/go-1.14.5-sfctmahlpubqv4bi7lkey6v2lnwujdov/lib:1:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/fmt-6.1.2-a7bfes4oigaxrpm2luhtdb63lers36xm/lib:1
+USER=ga83dit
+INCLUDE_modshare=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/fmt-6.1.2-a7bfes4oigaxrpm2luhtdb63lers36xm/include:1:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/boost-1.73.0-gc2tlqywiolwkdkvin42q2pe5p3cfdxf/include:1:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/dpcpp-stable-cai36bpowhmwy447fvic46fyc2owdnlu/include:1
+ENV=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/environment-modules-4.5.1-7juu22d7xnrwihesmqavsjrjqnspcwzh/init/profile.sh
+HIPCC_VERBOSE=7
+DESKTOP_SESSION=ubuntu
+QT4_IM_MODULE=xim
+TEXTDOMAINDIR=/usr/share/locale/
+GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/255413bb_8f7d_4a72_a878_be7b0a386972
+DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+TEXMFROOT=/work_fast/ravil/latex
+QT_QPA_PLATFORMTHEME=appmenu-qt5
+PWD=/import/home/ga83dit/Documents/scratch/sycl-examples/vector-add
+HOME=/home/ga83dit
+CONDA_PYTHON_EXE=/home/ga83dit/anaconda3/bin/python
+TEXTDOMAIN=im-config
+CMAKE_PREFIX_PATH=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/dpcpp-stable-cai36bpowhmwy447fvic46fyc2owdnlu/:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/boost-1.73.0-gc2tlqywiolwkdkvin42q2pe5p3cfdxf/:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/fmt-6.1.2-a7bfes4oigaxrpm2luhtdb63lers36xm/:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/go-1.14.5-sfctmahlpubqv4bi7lkey6v2lnwujdov/
+SSH_AGENT_PID=11378
+QT_ACCESSIBILITY=1
+LIBVIRT_DEFAULT_URI=qemu:///system
+JENKINS_HOME=/import/home/ga83dit/Documents/jenkins/home
+XDG_SESSION_TYPE=x11
+TEXMFSYSCONFIG=/work_fast/ravil/latex/texmf-config
+SINGULARITY_CACHEDIR=/work/ravil/singularity/cache
+F77=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-7.5.0/gcc-8.3.0-persgdxdf34x2ywykimfrvd2hzftn6a7/bin/gfortran
+BASH_ENV=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/environment-modules-4.5.1-7juu22d7xnrwihesmqavsjrjqnspcwzh/init/bash
+XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+_LMFILES__modshare=/import/home/ga83dit/apps/utils/spack/share/spack/modules/linux-ubuntu18.04-skylake/dpcpp-stable-gcc-8.3.0-cai36bp:1:/import/home/ga83dit/apps/utils/spack/share/spack/modules/linux-ubuntu18.04-skylake/go-1.14.5-gcc-8.3.0-sfctmah:1:/import/home/ga83dit/apps/utils/spack/share/spack/modules/linux-ubuntu18.04-skylake/fmt-6.1.2-gcc-8.3.0-a7bfes4:1:/import/home/ga83dit/apps/utils/spack/share/spack/modules/linux-ubuntu18.04-skylake/boost-1.73.0-gcc-8.3.0-gc2tlqy:1
+TEXMFLOCAL=/work_fast/ravil/latex/texmf-local
+_CE_CONDA=
+SELFAUTOPARENT=/work_fast/ravil/latex
+XDG_SESSION_DESKTOP=ubuntu
+LC_ADDRESS=en_US.UTF-8
+LIBRARY_PATH=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/boost-1.73.0-gc2tlqywiolwkdkvin42q2pe5p3cfdxf/lib:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/fmt-6.1.2-a7bfes4oigaxrpm2luhtdb63lers36xm/lib:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/go-1.14.5-sfctmahlpubqv4bi7lkey6v2lnwujdov/lib
+GJS_DEBUG_OUTPUT=stderr
+LC_NUMERIC=en_US.UTF-8
+TEXMFSYSVAR=/work_fast/ravil/latex/texmf-var
+LOADEDMODULES=go-1.14.5-gcc-8.3.0-sfctmah:fmt-6.1.2-gcc-8.3.0-a7bfes4:boost-1.73.0-gcc-8.3.0-gc2tlqy:dpcpp-stable-gcc-8.3.0-cai36bp
+FC=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-7.5.0/gcc-8.3.0-persgdxdf34x2ywykimfrvd2hzftn6a7/bin/gfortran
+SDKMAN_DIR=/home/ga83dit/.sdkman
+TEXMFHOME=/work_fast/ravil/texmf
+CONDA_PROMPT_MODIFIER=(base) 
+GTK_MODULES=gail:atk-bridge
+PAPERSIZE=letter
+CXX=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/dpcpp-stable-cai36bpowhmwy447fvic46fyc2owdnlu/bin/clang++
+WINDOWPATH=2
+TEXROOT=/work_fast/ravil
+SPACK_ROOT=/home/ga83dit/apps/utils/spack
+VTE_VERSION=5202
+SHELL=/bin/bash
+TERM=xterm-256color
+CMAKE_PREFIX_PATH_modshare=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/fmt-6.1.2-a7bfes4oigaxrpm2luhtdb63lers36xm/:1:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/boost-1.73.0-gc2tlqywiolwkdkvin42q2pe5p3cfdxf/:1:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/dpcpp-stable-cai36bpowhmwy447fvic46fyc2owdnlu/:1:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/go-1.14.5-sfctmahlpubqv4bi7lkey6v2lnwujdov/:1
+QT_IM_MODULE=ibus
+XMODIFIERS=@im=ibus
+IM_CONFIG_PHASE=2
+SDKMAN_CANDIDATES_DIR=/home/ga83dit/.sdkman/candidates
+XDG_CURRENT_DESKTOP=ubuntu:GNOME
+GPG_AGENT_INFO=/run/user/3643463/gnupg/S.gpg-agent:0:1
+GNOME_TERMINAL_SERVICE=:1.259
+XDG_SEAT=seat0
+SHLVL=1
+TEXMFVAR=/work_fast/ravil/texlive/texmf-var
+MANPATH=:/opt/puppetlabs/puppet/share/man
+LC_TELEPHONE=en_US.UTF-8
+MODULEPATH=/import/home/ga83dit/apps/utils/spack/share/spack/modules/linux-ubuntu18.04-skylake:/etc/environment-modules/modules:/usr/share/modules/versions:/usr/share/modules//modulefiles:/usr/share/modules/modulefiles
+GDMSESSION=ubuntu
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+LOGNAME=ga83dit
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/3643463/bus
+XDG_RUNTIME_DIR=/run/user/3643463
+XAUTHORITY=/run/user/3643463/gdm/Xauthority
+CPLUS_INCLUDE_PATH=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/dpcpp-stable-cai36bpowhmwy447fvic46fyc2owdnlu/include:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/boost-1.73.0-gc2tlqywiolwkdkvin42q2pe5p3cfdxf/include:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/fmt-6.1.2-a7bfes4oigaxrpm2luhtdb63lers36xm/include
+MODULEPATH_modshare=/usr/share/modules/$MODULE_VERSION/modulefiles:1:/etc/environment-modules/modules:1:/usr/share/modules/modulefiles:1:/usr/share/modules/versions:1
+XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+PATH=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/cuda-10.2.89-lburamo5a3uav2rwhl7hjmbrsbcumnih/bin:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/dpcpp-stable-cai36bpowhmwy447fvic46fyc2owdnlu/bin:/work_fast/ravil/latex/bin/x86_64-linux:/home/ga83dit/apps/utils/spack/bin:/home/ga83dit/apps/utils/cmake-3.16.2/bin:/home/ga83dit/.cargo/bin:/home/ga83dit/bin:/home/ga83dit/.local/bin:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/go-1.14.5-sfctmahlpubqv4bi7lkey6v2lnwujdov/bin:/home/ga83dit/.sdkman/candidates/groovy/current/bin:/work_fast/ravil/latex/bin/x86_64-linux:/home/ga83dit/anaconda3/bin:/home/ga83dit/anaconda3/condabin:/home/ga83dit/apps/utils/spack/bin:/home/ga83dit/apps/utils/cmake-3.16.2/bin:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/environment-modules-4.5.1-7juu22d7xnrwihesmqavsjrjqnspcwzh/bin:/home/ga83dit/apps/utils/spack/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/opt/puppetlabs/bin:/opt/rocm/bin:/opt/rocm/profiler/bin:/opt/rocm/opencl/bin/x86_64:/home/ga83dit/.cargo/bin:/home/ga83dit/.cargo/bin
+LC_IDENTIFICATION=en_US.UTF-8
+_LMFILES_=/import/home/ga83dit/apps/utils/spack/share/spack/modules/linux-ubuntu18.04-skylake/go-1.14.5-gcc-8.3.0-sfctmah:/import/home/ga83dit/apps/utils/spack/share/spack/modules/linux-ubuntu18.04-skylake/fmt-6.1.2-gcc-8.3.0-a7bfes4:/import/home/ga83dit/apps/utils/spack/share/spack/modules/linux-ubuntu18.04-skylake/boost-1.73.0-gcc-8.3.0-gc2tlqy:/import/home/ga83dit/apps/utils/spack/share/spack/modules/linux-ubuntu18.04-skylake/dpcpp-stable-gcc-8.3.0-cai36bp
+SDKMAN_VERSION=5.9.0+555
+JENKINS_LOCAL_ROOT=/import/home/ga83dit/Documents/jenkins
+MODULESHOME=/usr/share/modules
+CONDA_DEFAULT_ENV=base
+PKG_CONFIG_PATH=/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/dpcpp-stable-cai36bpowhmwy447fvic46fyc2owdnlu/lib/pkgconfig:/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/fmt-6.1.2-a7bfes4oigaxrpm2luhtdb63lers36xm/lib/pkgconfig
+BENCHMARKS=/home/ga83dit/apps/benchmark
+GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+SDKMAN_PLATFORM=Linux64
+SESSION_MANAGER=local/hpcsccs12:@/tmp/.ICE-unix/11168,unix/hpcsccs12:/tmp/.ICE-unix/11168
+COOKBOOK=/home/ga83dit/apps/cookbook
+LESSOPEN=| /usr/bin/lesspipe %s
+GTK_IM_MODULE=ibus
+LC_TIME=en_US.UTF-8
+OMPI_MCA_btl=vader,self
+BASH_FUNC_module%%=() {  _module_raw "$@" 2>&1
+}
+BASH_FUNC_spack%%=() {  : this is a shell function from: /home/ga83dit/apps/utils/spack/share/spack/setup-env.sh;
+ : the real spack script is here: /home/ga83dit/apps/utils/spack/bin/spack;
+ _spack_shell_wrapper "$@";
+ return $?
+}
+BASH_FUNC__module_raw%%=() {  unset _mlshdbg;
+ if [ "${MODULES_SILENT_SHELL_DEBUG:-0}" = '1' ]; then
+ case "$-" in 
+ *v*x*)
+ set +vx;
+ _mlshdbg='vx'
+ ;;
+ *v*)
+ set +v;
+ _mlshdbg='v'
+ ;;
+ *x*)
+ set +x;
+ _mlshdbg='x'
+ ;;
+ *)
+ _mlshdbg=''
+ ;;
+ esac;
+ fi;
+ unset _mlre _mlIFS;
+ if [ -n "${IFS+x}" ]; then
+ _mlIFS=$IFS;
+ fi;
+ IFS=' ';
+ for _mlv in ${MODULES_RUN_QUARANTINE:-};
+ do
+ if [ "${_mlv}" = "${_mlv##*[!A-Za-z0-9_]}" -a "${_mlv}" = "${_mlv#[0-9]}" ]; then
+ if [ -n "`eval 'echo ${'$_mlv'+x}'`" ]; then
+ _mlre="${_mlre:-}${_mlv}_modquar='`eval 'echo ${'$_mlv'}'`' ";
+ fi;
+ _mlrv="MODULES_RUNENV_${_mlv}";
+ _mlre="${_mlre:-}${_mlv}='`eval 'echo ${'$_mlrv':-}'`' ";
+ fi;
+ done;
+ if [ -n "${_mlre:-}" ]; then
+ eval `eval ${_mlre}/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/tcl-8.6.8-u6jxa2eg6i6qxnf266toc5l5qeam764z/bin/tclsh /import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/environment-modules-4.5.1-7juu22d7xnrwihesmqavsjrjqnspcwzh/libexec/modulecmd.tcl bash '"$@"'`;
+ else
+ eval `/import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/tcl-8.6.8-u6jxa2eg6i6qxnf266toc5l5qeam764z/bin/tclsh /import/home/ga83dit/apps/utils/spack/opt/spack/linux-ubuntu18.04-skylake/gcc-8.3.0/environment-modules-4.5.1-7juu22d7xnrwihesmqavsjrjqnspcwzh/libexec/modulecmd.tcl bash "$@"`;
+ fi;
+ _mlstatus=$?;
+ if [ -n "${_mlIFS+x}" ]; then
+ IFS=$_mlIFS;
+ else
+ unset IFS;
+ fi;
+ unset _mlre _mlv _mlrv _mlIFS;
+ if [ -n "${_mlshdbg:-}" ]; then
+ set -$_mlshdbg;
+ fi;
+ unset _mlshdbg;
+ return $_mlstatus
+}
+BASH_FUNC__spack_shell_wrapper%%=() {  for var in LD_LIBRARY_PATH DYLD_LIBRARY_PATH DYLD_FALLBACK_LIBRARY_PATH;
+ do
+ eval "if [ -n \"\${${var}-}\" ]; then export SPACK_$var=\${${var}}; fi";
+ done;
+ if [ -n "${ZSH_VERSION:-}" ]; then
+ emulate -L sh;
+ fi;
+ _sp_flags="";
+ while [ ! -z ${1+x} ] && [ "${1#-}" != "${1}" ]; do
+ _sp_flags="$_sp_flags $1";
+ shift;
+ done;
+ if [ -n "$_sp_flags" ] && [ "${_sp_flags#*h}" != "${_sp_flags}" ] || [ "${_sp_flags#*V}" != "${_sp_flags}" ]; then
+ command spack $_sp_flags "$@";
+ return;
+ fi;
+ _sp_subcommand="";
+ if [ ! -z ${1+x} ]; then
+ _sp_subcommand="$1";
+ shift;
+ fi;
+ case $_sp_subcommand in 
+ "cd")
+ _sp_arg="";
+ if [ -n "$1" ]; then
+ _sp_arg="$1";
+ shift;
+ fi;
+ if [ "$_sp_arg" = "-h" ] || [ "$_sp_arg" = "--help" ]; then
+ command spack cd -h;
+ else
+ LOC="$(spack location $_sp_arg "$@")";
+ if [ -d "$LOC" ]; then
+ cd "$LOC";
+ else
+ return 1;
+ fi;
+ fi;
+ return
+ ;;
+ "env")
+ _sp_arg="";
+ if [ -n "$1" ]; then
+ _sp_arg="$1";
+ shift;
+ fi;
+ if [ "$_sp_arg" = "-h" ] || [ "$_sp_arg" = "--help" ]; then
+ command spack env -h;
+ else
+ case $_sp_arg in 
+ activate)
+ _a=" $@";
+ if [ -z ${1+x} ] || [ "${_a#* --sh}" != "$_a" ] || [ "${_a#* --csh}" != "$_a" ] || [ "${_a#* -h}" != "$_a" ] || [ "${_a#* --help}" != "$_a" ]; then
+ command spack env activate "$@";
+ else
+ eval $(command spack $_sp_flags env activate --sh "$@");
+ fi
+ ;;
+ deactivate)
+ _a=" $@";
+ if [ "${_a#* --sh}" != "$_a" ] || [ "${_a#* --csh}" != "$_a" ]; then
+ command spack env deactivate "$@";
+ else
+ if [ -n "$*" ]; then
+ command spack env deactivate -h;
+ else
+ eval $(command spack $_sp_flags env deactivate --sh);
+ fi;
+ fi
+ ;;
+ *)
+ command spack env $_sp_arg "$@"
+ ;;
+ esac;
+ fi;
+ return
+ ;;
+ "load" | "unload")
+ _a=" $@";
+ if [ "${_a#* --sh}" != "$_a" ] || [ "${_a#* --csh}" != "$_a" ] || [ "${_a#* -h}" != "$_a" ] || [ "${_a#* --help}" != "$_a" ]; then
+ command spack $_sp_flags $_sp_subcommand "$@";
+ else
+ eval $(command spack $_sp_flags $_sp_subcommand --sh "$@" ||                     echo "return 1");
+ fi
+ ;;
+ *)
+ command spack $_sp_flags $_sp_subcommand "$@"
+ ;;
+ esac
+}
+BASH_FUNC_ml%%=() {  module ml "$@"
+}
+_=/usr/bin/env
